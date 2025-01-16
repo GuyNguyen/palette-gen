@@ -1,0 +1,9 @@
+[package]
+name = "palette-gen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+average_color = "0.1.2"
+image = "0.25.5"
+tokio = "1.43.0"
